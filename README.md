@@ -2,6 +2,7 @@
 ## By: Austin Montgomery<br>
 ### <a href = https://amontg14.github.io/>Website</a><br><br><a href = "mailto: montgomery.austin00@gmail.com">Email</a><br><br>
 C++ based digital 303 style synthesizer plugin using JUCE framework<br><br>
+VST3 and Component Versions Included In ZIP File<br><br>
 <b>Features</b><br>
 - 1 Oscillator (Saw or Square)
 - Gain Slider
