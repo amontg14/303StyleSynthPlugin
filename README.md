@@ -8,5 +8,7 @@
 * Step Based Pitch Slider
 * Cutoff and Resonance Knobs
 * Decay and Envelope Mod Sliders
+<br>
+<u>Currently Working On Improving UI</u>
 
 Inspired By: <a>https://github.com/TheAudioProgrammer/basicOscillator</a>
