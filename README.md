@@ -16,4 +16,4 @@ https://github.com/amontg14/303StyleSynthPlugin/assets/122555693/3640f7f2-ed1c-4
 
 
 Currently Working On Improving UI<br><br>
-Inspired By: <a>https://github.com/TheAudioProgrammer/basicOscillator</a>
+Inspired By: <a>https://github.com/TheAudioProgrammer/tapSynth</a>
